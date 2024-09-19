@@ -1,0 +1,13 @@
+{
+    "HomePage": {
+      "title": "Hello world!",
+      "about": "Go to the about page"
+    },
+    "About": {
+      "title" : "Welcome to About Page"
+    },
+    "Navbar": {
+      "home" : "Home",
+      "about" : "About"
+    }
+  }
